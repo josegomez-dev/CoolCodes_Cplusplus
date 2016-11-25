@@ -1,0 +1,4 @@
+﻿  TestingsCplusplus.cpp
+c:\users\alego\documents\visual studio 2015\projects\c++\computerimagine (console game c++)\testingscplusplus\testingscplusplus.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TestingsCplusplus.vcxproj -> C:\Users\alego\Documents\Visual Studio 2015\Projects\C++\ComputerImagine (Console Game C++)\Debug\TestingsCplusplus.exe
+  TestingsCplusplus.vcxproj -> C:\Users\alego\Documents\Visual Studio 2015\Projects\C++\ComputerImagine (Console Game C++)\Debug\TestingsCplusplus.pdb (Full PDB)

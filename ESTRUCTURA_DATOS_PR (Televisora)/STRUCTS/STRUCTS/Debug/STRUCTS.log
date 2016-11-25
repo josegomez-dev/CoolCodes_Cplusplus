@@ -1,0 +1,5 @@
+﻿  STRUCTS.cpp
+c:\users\alego\documents\visual studio 2015\projects\structs\structs\structs.cpp(39): warning C4172: returning address of local variable or temporary: lst
+c:\users\alego\documents\visual studio 2015\projects\structs\structs\structs.cpp(50): warning C4172: returning address of local variable or temporary: lst
+  STRUCTS.vcxproj -> C:\Users\alego\Documents\Visual Studio 2015\Projects\STRUCTS\Debug\STRUCTS.exe
+  STRUCTS.vcxproj -> C:\Users\alego\Documents\Visual Studio 2015\Projects\STRUCTS\Debug\STRUCTS.pdb (Full PDB)

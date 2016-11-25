@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Estructuras">
+      <UniqueIdentifier>{69ae0c48-de94-49c2-8adf-b3e0bd8446e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Estructuras\Nodos">
+      <UniqueIdentifier>{0c0abbc9-e282-46eb-bc9e-d8e72521ead1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Entidades">
+      <UniqueIdentifier>{07fd5232-0865-494c-a380-511b72ba9f3f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Anuncio.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Canal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ListaAnuncios.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ListaCanales.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NodoAnuncio.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NodoCanal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AnuncioContratado.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NodoAnuncioContratado.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ListaAnunciosContratados.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="STRUCTS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Anuncio.cpp">
+      <Filter>Source Files\Entidades</Filter>
+    </ClCompile>
+    <ClCompile Include="Canal.cpp">
+      <Filter>Source Files\Entidades</Filter>
+    </ClCompile>
+    <ClCompile Include="ListaAnuncios.cpp">
+      <Filter>Source Files\Estructuras</Filter>
+    </ClCompile>
+    <ClCompile Include="ListaCanales.cpp">
+      <Filter>Source Files\Estructuras</Filter>
+    </ClCompile>
+    <ClCompile Include="NodoAnuncio.cpp">
+      <Filter>Source Files\Estructuras\Nodos</Filter>
+    </ClCompile>
+    <ClCompile Include="NodoCanal.cpp">
+      <Filter>Source Files\Estructuras\Nodos</Filter>
+    </ClCompile>
+    <ClCompile Include="AnuncioContratado.cpp">
+      <Filter>Source Files\Entidades</Filter>
+    </ClCompile>
+    <ClCompile Include="ListaAnunciosContratados.cpp">
+      <Filter>Source Files\Estructuras</Filter>
+    </ClCompile>
+    <ClCompile Include="NodoAnuncioContratado.cpp">
+      <Filter>Source Files\Estructuras\Nodos</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
